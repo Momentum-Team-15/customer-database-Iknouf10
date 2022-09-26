@@ -1,0 +1,30 @@
+h1 {
+    /* background-color: blanchedalmond; */
+    margin-bottom: auto;
+    /* font-size: x-large; */
+  }
+  /* h1, */
+  #directory {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    /* background-color: blanchedalmond; */
+  }
+  
+  img {
+    border-radius: 50% 75%;
+    /* width: 100px; */
+  }
+  
+  .person {
+    /* background-color: aqua; */
+    margin: 20px;
+    width: 25%;
+  }
+  .email {
+    color: rgb(128, 128, 128);
+    margin-top: auto;
+  }
+  .address {
+    margin: auto;
+  }
